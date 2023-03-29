@@ -1,0 +1,121 @@
+Youtube Refresh for Project 1:
+
+Complete Course: Creating a Complete C# Application from Start to Finish
+by
+IAmTimCorey
+https://www.youtube.com/watch?v=HalXZUHfKLA&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi
+
+
+Current Step: 9/28
+https://www.youtube.com/watch?v=6ixfTsrhPgM&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi&index=9
+
+
+Structure: Windows Forms Application and Class Library (C#)
+Data: SQL and/or Text 
+FileUsers: One at a time on one application 
+Key Concepts:
+-Email
+-SQL
+-Custom Events
+
+
+
+Mapping the Data!
+(SQL Tables)
+
+Team:
+-TeamMembers (List<Person>)
+-TeamName
+
+Person:
+-FirstName (string)
+-LastName (string)
+-EmailAddress (string)
+-CellphoneNumber (string)
+
+Tournament:
+-TournamentName (string)
+-EntryFee (decimal)
+-EnteredTeams (List<Team>)
+-Prizes (List<Prize>)
+-Rounds (List<List<Matchup>>)
+
+Prize:
+-PlaceNumber (int)
+-PlaceName (string)
+-PrizeAmount (decimal)
+-PrizePercentage (double)
+
+Matchup:
+-Entries (List<MatchupEntry>)
+-Winner (Team)
+-MatchupRound (int)
+
+MatchupEntry:
+-TeamCompeting (Team)
+-Score (double)
+-ParentMathcup (Matchup)
+
+
+
+
+
+
+User Interface Design!
+
+-designed a quick Tournement Viewer Window using WPF controls.
+
+-Create Tournament form window
+
+-Create Team form window
+
+-Create Prize form window
+
+-Tournament Dashboard window (Create Tournament or Load Tournament)
+
+
+
+
+
+Logic Planning!
+
+Confirm we have the ability to code the logic in the User Interface Design, if we are missing logic, then add to our User Interface Design.
+
+
+
+
+
+CODING!
+
+>Create a Class Library
+-Initialize all the Lists
+-Comment /// the summary of our classes
+-
+
+
+
+
+>Form Building
+-Create the C# Windows Forms Application (WPF Objects)
+-Create the permanent Windows
+
+
+
+
+>SQL Database Design
+-Create the Database Diagram to see how to tables connect to each other.
+
+
+
+
+
+Prize Form Wire Up
+
+SQL Connection
+
+Text Connection
+
+
+
+
+

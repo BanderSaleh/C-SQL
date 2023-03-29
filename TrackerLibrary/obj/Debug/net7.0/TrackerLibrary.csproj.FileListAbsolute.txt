@@ -1,0 +1,12 @@
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\bin\Debug\net7.0\TrackerLibrary.deps.json
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\bin\Debug\net7.0\TrackerLibrary.dll
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\bin\Debug\net7.0\TrackerLibrary.pdb
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.AssemblyInfo.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.dll
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\refint\TrackerLibrary.dll
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\TrackerLibrary.pdb
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerLibrary\obj\Debug\net7.0\ref\TrackerLibrary.dll

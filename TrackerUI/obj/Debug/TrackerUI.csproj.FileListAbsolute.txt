@@ -1,0 +1,16 @@
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\MainWindow.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\App.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI_MarkupCompile.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI_MarkupCompile.lref
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\MainWindow.baml
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.g.resources
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 TA\RTC WS TA for Applied Database\Project_1_Practice_Tim_Corey\C#SQL\TrackerUI\obj\Debug\TrackerUI.pdb
